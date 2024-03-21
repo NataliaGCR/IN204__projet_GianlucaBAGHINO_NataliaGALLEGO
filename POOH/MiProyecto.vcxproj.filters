@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_impl_dx9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_impl_vulkan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_impl_win32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\RayTracer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\hittable_list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\hittable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\interval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\RayTracer\ray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\xml_reader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\printpng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\ImGui\ImGuiExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\pugixml-1.14\src\pugixml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\natyo\OneDrive - Universidad EIA\Escritorio\POOH\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{648710B6-DADF-33A4-B9EA-59CE42B85AC6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

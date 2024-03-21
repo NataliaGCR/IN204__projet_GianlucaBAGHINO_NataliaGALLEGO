@@ -1,0 +1,3 @@
+C:/Users/natyo/OneDrive - Universidad EIA/Escritorio/POOH/CMakeFiles/MiProyecto.dir
+C:/Users/natyo/OneDrive - Universidad EIA/Escritorio/POOH/CMakeFiles/ALL_BUILD.dir
+C:/Users/natyo/OneDrive - Universidad EIA/Escritorio/POOH/CMakeFiles/ZERO_CHECK.dir

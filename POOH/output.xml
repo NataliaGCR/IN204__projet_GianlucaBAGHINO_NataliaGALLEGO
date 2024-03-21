@@ -1,0 +1,114 @@
+﻿<scene>
+    <camara>
+        <look_from> [27.8, 27.8, -80.0] </look_from>
+        <look_at> [27.8, 27.8, 0.0] </look_at>
+        <vup> [0, 1, 0] </vup>
+        <vfov>40.0</vfov>
+        <background_color> [0.0, 0.0, 0.0] </background_color>
+    </camara>
+    
+    <object number="1">
+        <Shape_type>quad</Shape_type> 
+        <Material>lambertian</Material>
+        <Colors> [0.12, 0.45, 0.15, 0.0] </Colors>
+        <Colors2> [0.12, 0.45, 0.15, 0.0] </Colors2>
+        <Origen> [55.5, 0.0, 0.0] </Origen>
+        <Vector1> [0.0, 55.5, 0.0] </Vector1>
+        <Vector2> [0.0, 0.0, 55.5] </Vector2>
+    </object>
+
+    <object number="2">
+        <Shape_type>quad</Shape_type> 
+        <Material>lambertian</Material>
+        <Colors> [0.65, 0.05, 0.05, 0.0] </Colors>
+        <Colors2> [0.65, 0.05, 0.05, 0.0] </Colors2>
+        <Origen> [0.0, 0.0, 0.0] </Origen>
+        <Vector1> [0.0, 55.5, 0.0] </Vector1>
+        <Vector2> [0.0, 0.0, 55.5] </Vector2>
+    </object>
+
+    <object number="3">
+        <Shape_type>quad</Shape_type> 
+        <Material>lambertian</Material>
+        <Colors> [0.73, 0.73, 0.73, 0.0] </Colors>
+        <Colors2> [0.73, 0.73, 0.73, 0.0] </Colors2>
+        <Origen> [0.0, 0.0, 0.0] </Origen>
+        <Vector1> [55.5, 0.0, 0.0] </Vector1>
+        <Vector2> [0.0, 0.0, 55.5] </Vector2>
+    </object>
+
+    <object number="4">
+        <Shape_type>quad</Shape_type> 
+        <Material>lambertian</Material>
+        <Colors> [0.73, 0.73, 0.73, 0.0] </Colors>
+        <Colors2> [0.73, 0.73, 0.73, 0.0] </Colors2>
+        <Origen> [55.5, 55.5, 55.5] </Origen>
+        <Vector1> [-55.5, 0.0, 0.0] </Vector1>
+        <Vector2> [0.0, 0.0, -55.5] </Vector2>
+    </object>
+
+    <object number="5">
+        <Shape_type>quad</Shape_type> 
+        <Material>lambertian</Material>
+        <Colors> [0.73, 0.73, 0.73, 0.0] </Colors>
+        <Colors2> [0.12, 0.45, 0.15, 0.0] </Colors2>
+        <Origen> [0.0, 0.0, 55.5] </Origen>
+        <Vector1> [55.5, 0.0, 0.0] </Vector1>
+        <Vector2> [0.0, 55.5, 0.0] </Vector2>
+    </object>
+
+    <object number="6">
+        <Shape_type>quad</Shape_type> 
+        <Material>difflight</Material>
+        <Colors> [15.0, 15.0, 15.0, 0.0] </Colors>
+        <Origen> [34.3, 55.4, 33.2] </Origen>
+        <Vector1> [-26.0, 0.0, 0.0] </Vector1>
+        <Vector2> [0.0, 0.0, -21.0] </Vector2>
+    </object>
+
+    <object number="7">
+        <Shape_type>box</Shape_type> 
+        <Material>metal</Material>
+        <Colors> [0.8, 0.6, 0.2, 2.5] </Colors>
+        <Point1> [13.0, 0.0, 6.5] </Point1>
+        <Point2> [29.5, 16.5, 23.0] </Point2>
+    </object>
+
+    <object number="8">
+        <Shape_type>box</Shape_type> 
+        <Material>metal</Material>
+        <Colors> [0.5, 0.3, 0.4, 1.5] </Colors>
+        <Point1> [26.5, 0.0, 29.5] </Point1>
+        <Point2> [43.0, 33.0, 46.0] </Point2>
+    </object>
+
+    <object number="9">
+        <Shape_type>sphere</Shape_type> 
+        <Material>dielectric</Material>
+        <Colors> [1.5, 0.0, 0.0, 0.0] </Colors>
+        <Position> [5.0, 15.0, 10.0] </Position>
+        <Position2> [5.0,16.0, 10.0] </Position2>
+        <Ratio>5.0</Ratio>
+    </object>
+
+    <object number="10">
+        <Shape_type>sphere</Shape_type> 
+        <Material>dielectric</Material>
+        <Colors> [1.5, 0.0, 0.0, 0.0] </Colors>
+        <Position> [5.0, 15.0, 10.0] </Position>
+        <Position2> [5.0,16.0, 10.0] </Position2>
+        <Ratio>4.0</Ratio>
+    </object>
+
+    <object number="11">
+        <Shape_type>sphere</Shape_type> 
+        <Material>lambertian</Material>
+        <Colors> [0.1, 0.2, 0.5, 0.0] </Colors>
+        <Colors2> [0.1, 0.2, 0.5, 0.0] </Colors2>
+        <Position> [40.0, 0.0, 10.0] </Position>
+        <Position2> [40.0, 20.0, 10.0] </Position2>
+        <Ratio>5.0</Ratio>
+    </object>
+
+
+</scene>
